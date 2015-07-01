@@ -19,7 +19,15 @@ namespace NET.Test
 
         private void button3_Click(object sender, EventArgs e)
         {
-            textBox3.Text = (Int32.Parse(textBox1.Text) * Int32.Parse(textBox2.Text)).ToString();
+            try
+            {
+                textBox3.Text = (Int32.Parse(textBox1.Text) * Int32.Parse(textBox2.Text)).ToString();
+            }
+            catch ( Exception ex)
+            {
+                MessageBox.Show("Неверные данные, повторите ввод!");
+            }
+            
         }
     }
 }
