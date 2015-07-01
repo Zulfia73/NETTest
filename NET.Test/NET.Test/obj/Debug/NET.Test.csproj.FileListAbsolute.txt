@@ -7,3 +7,12 @@ C:\Users\Danila\Documents\Projects\nettest\NET.Test\NET.Test\obj\Debug\NET.Test.
 C:\Users\Danila\Documents\Projects\nettest\NET.Test\NET.Test\obj\Debug\NET.Test.csproj.GenerateResource.Cache
 C:\Users\Danila\Documents\Projects\nettest\NET.Test\NET.Test\obj\Debug\NET.Test.exe
 C:\Users\Danila\Documents\Projects\nettest\NET.Test\NET.Test\obj\Debug\NET.Test.pdb
+D:\Cloud\GitHub\NETTest\NET.Test\NET.Test\bin\Debug\NET.Test.exe.config
+D:\Cloud\GitHub\NETTest\NET.Test\NET.Test\bin\Debug\NET.Test.exe
+D:\Cloud\GitHub\NETTest\NET.Test\NET.Test\bin\Debug\NET.Test.pdb
+D:\Cloud\GitHub\NETTest\NET.Test\NET.Test\obj\Debug\NET.Test.csprojResolveAssemblyReference.cache
+D:\Cloud\GitHub\NETTest\NET.Test\NET.Test\obj\Debug\NET.Test.Form1.resources
+D:\Cloud\GitHub\NETTest\NET.Test\NET.Test\obj\Debug\NET.Test.Properties.Resources.resources
+D:\Cloud\GitHub\NETTest\NET.Test\NET.Test\obj\Debug\NET.Test.csproj.GenerateResource.Cache
+D:\Cloud\GitHub\NETTest\NET.Test\NET.Test\obj\Debug\NET.Test.exe
+D:\Cloud\GitHub\NETTest\NET.Test\NET.Test\obj\Debug\NET.Test.pdb
