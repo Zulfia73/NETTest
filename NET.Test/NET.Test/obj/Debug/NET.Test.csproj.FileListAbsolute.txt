@@ -1,0 +1,9 @@
+C:\Users\Danila\Documents\Projects\nettest\NET.Test\NET.Test\bin\Debug\NET.Test.exe.config
+C:\Users\Danila\Documents\Projects\nettest\NET.Test\NET.Test\bin\Debug\NET.Test.exe
+C:\Users\Danila\Documents\Projects\nettest\NET.Test\NET.Test\bin\Debug\NET.Test.pdb
+C:\Users\Danila\Documents\Projects\nettest\NET.Test\NET.Test\obj\Debug\NET.Test.csprojResolveAssemblyReference.cache
+C:\Users\Danila\Documents\Projects\nettest\NET.Test\NET.Test\obj\Debug\NET.Test.Form1.resources
+C:\Users\Danila\Documents\Projects\nettest\NET.Test\NET.Test\obj\Debug\NET.Test.Properties.Resources.resources
+C:\Users\Danila\Documents\Projects\nettest\NET.Test\NET.Test\obj\Debug\NET.Test.csproj.GenerateResource.Cache
+C:\Users\Danila\Documents\Projects\nettest\NET.Test\NET.Test\obj\Debug\NET.Test.exe
+C:\Users\Danila\Documents\Projects\nettest\NET.Test\NET.Test\obj\Debug\NET.Test.pdb
