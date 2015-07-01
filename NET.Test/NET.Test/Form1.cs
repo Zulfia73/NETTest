@@ -21,7 +21,7 @@ namespace NET.Test
         {
             try
             {
-                textBox3.Text = (Int32.Parse(textBox1.Text) * Int32.Parse(textBox2.Text)).ToString();
+                textBox3.Text = (Double.Parse(textBox1.Text) * Double.Parse(textBox2.Text)).ToString("0.00");
             }
             catch ( Exception ex)
             {

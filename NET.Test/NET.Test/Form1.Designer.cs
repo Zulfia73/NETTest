@@ -127,7 +127,7 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(53, 174);
+            this.button4.Location = new System.Drawing.Point(53, 182);
             this.button4.Margin = new System.Windows.Forms.Padding(2);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(164, 33);
