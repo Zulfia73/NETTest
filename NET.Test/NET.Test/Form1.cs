@@ -29,5 +29,17 @@ namespace NET.Test
             }
             
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                textBox3.Text = (Double.Parse(textBox1.Text) / Double.Parse(textBox2.Text)).ToString("0.00");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Неверные данные, повторите ввод!");
+            }
+        }
     }
 }
