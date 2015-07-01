@@ -16,3 +16,12 @@ D:\Cloud\GitHub\NETTest\NET.Test\NET.Test\obj\Debug\NET.Test.Properties.Resource
 D:\Cloud\GitHub\NETTest\NET.Test\NET.Test\obj\Debug\NET.Test.csproj.GenerateResource.Cache
 D:\Cloud\GitHub\NETTest\NET.Test\NET.Test\obj\Debug\NET.Test.exe
 D:\Cloud\GitHub\NETTest\NET.Test\NET.Test\obj\Debug\NET.Test.pdb
+C:\Users\Иван\Desktop\NETTest\NET.Test\NET.Test\bin\Debug\NET.Test.exe.config
+C:\Users\Иван\Desktop\NETTest\NET.Test\NET.Test\obj\Debug\NET.Test.exe
+C:\Users\Иван\Desktop\NETTest\NET.Test\NET.Test\obj\Debug\NET.Test.pdb
+C:\Users\Иван\Desktop\NETTest\NET.Test\NET.Test\bin\Debug\NET.Test.exe
+C:\Users\Иван\Desktop\NETTest\NET.Test\NET.Test\bin\Debug\NET.Test.pdb
+C:\Users\Иван\Desktop\NETTest\NET.Test\NET.Test\obj\Debug\NET.Test.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Desktop\NETTest\NET.Test\NET.Test\obj\Debug\NET.Test.Form1.resources
+C:\Users\Иван\Desktop\NETTest\NET.Test\NET.Test\obj\Debug\NET.Test.Properties.Resources.resources
+C:\Users\Иван\Desktop\NETTest\NET.Test\NET.Test\obj\Debug\NET.Test.csproj.GenerateResource.Cache
